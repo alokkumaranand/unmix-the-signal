@@ -1,0 +1,13 @@
+Metrics (higher SI-SDR is better, correlation is absolute)
+source      PCA corr   PCA SDR  ICA corr   ICA SDR
+ambient        0.636      -1.7     1.000      38.8
+music          0.831       3.5     1.000      45.7
+speech         0.663      -1.0     1.000      49.1
+
+Kurtosis (0 means Gaussian-like)
+source      original
+ambient        62.41
+music           8.57
+speech          5.13
+mixtures   45.25, 4.08, 4.52
+ICA output 62.41, 8.57, 5.13
