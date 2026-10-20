@@ -1,3 +1,5 @@
+**Short project required for Vinnovate club application**
+
 # Unmix the Signal
 
 Three Audio clips (speech, music and ambient noise) are mixed together with a mixing matrix. Then I pull them apart again using ICA from scratch, no library used
